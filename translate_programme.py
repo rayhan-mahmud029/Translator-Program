@@ -1,6 +1,6 @@
 from googletrans import Translator, constants
 from pprint import pprint
-# import pyttsx3
+import pyttsx3
 import speech_recognition as sr
 import pyaudio
 
